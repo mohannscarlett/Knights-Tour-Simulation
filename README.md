@@ -11,7 +11,7 @@ Java
 
 **Installation & Requirements**
 
-To run this project needs Java 8. Download each project from the repository or clone it using the following command:
+To run this project Java 8 is needed. Download each project from the repository or clone it using the following command:
 
 _git clone https://github.com/mohannscarlett/Knights-Tour-Simulation.git_
 
